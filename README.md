@@ -1,15 +1,6 @@
 # Artwork for Iridium Browser
 all Artwork is available as PNG, EPS or AI for Illustartor CS6+
 
-### Color Codes
-|    | fg-grey | fg-blue | bg-lightgrey |
-|----|----|----|----|
-| RGB | 81, 80, 80 | 68, 154, 213 | 230, 231, 232 |
-| WEB | #515050 | #449ad5 | #ececec |
-| CMYK | 61, 51, 50, 46 | 71, 27, 0, 0 | 0, 0, 0, 10 |
-
----
-
 ### Product Icons [RGB]
       
 #### Custom Icon | min width 61px+
@@ -64,3 +55,13 @@ all Artwork is available as PNG, EPS or AI for Illustartor CS6+
       
 ## Web Art [RGB]
 Backup of all artwork for the website and social media
+
+---
+
+### Color Codes
+|    | fg-grey | fg-blue | bg-lightgrey |
+|----|----|----|----|
+| RGB | 81, 80, 80 | 68, 154, 213 | 230, 231, 232 |
+| WEB | #515050 | #449ad5 | #ececec |
+| CMYK | 61, 51, 50, 46 | 71, 27, 0, 0 | 0, 0, 0, 10 |
+
