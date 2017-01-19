@@ -26,8 +26,7 @@ design size: **48-60px**
 
 
 
-| a  | b  | c  |  d | e  |
-|---|---|---|---|---|
-| b  | c  |  c | c  | c  |
+
+| #### Icon #  | c  |  c | c  | c  |
 | <img src="https://github.com/iridium-browser/artwork/blob/master/product-icon_RGB/iridium-icon_custom.png" height="100" width="120" align="left">  |   |   |   |   |
 |   |   |   |   |   |
