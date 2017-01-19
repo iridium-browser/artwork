@@ -4,9 +4,9 @@ all Artwork is available as PNG, EPS or AI for Illustartor CS6+
 ### Color Codes
 |    | fg-grey | fg-blue | bg-lightgrey |
 |----|----|----|----|
-| RGB |    |    |    |
-| WEB |    |    |    |
-| CMYK |    |    |    |
+| RGB | 81, 80, 80 |    |    |
+| WEB | #515050 |    |    |
+| CMYK | 61, 51, 50, 46 |    |    |
 
 
 RGB
