@@ -4,7 +4,7 @@ all Artwork is available as PNG, EPS or AI for Illustartor CS6+
 ## Product Icons #
       
 #### Custom Icon #
-<img src="https://github.com/iridium-browser/artwork/blob/master/product-icon_RGB/iridium-icon_custom.png" height="100" width="120" align="left">
+<img src="https://github.com/iridium-browser/artwork/blob/master/product-icon_RGB/iridium-icon_custom.png" align="left">
 Icon for all builds      
 design size: **61px+**    
 <br/>
