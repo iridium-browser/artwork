@@ -24,9 +24,9 @@ App Icon | design size: **48-60px**
       
 ## Product Logos [RGB] #
       
-#### Original Logo #
-<img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_1.png" height="240" width="153">     
-Original Logo | design size: **120px+** (width)    
+#### Product Logo #
+<img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_1.png" height="153" width="240">     
+Logo 1 | design size: **120px+** (width)    
 
 -
       
