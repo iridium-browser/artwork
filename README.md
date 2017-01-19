@@ -8,11 +8,7 @@ all Artwork is available as PNG, EPS or AI for Illustartor CS6+
 | WEB | #515050 | #449ad5 | #ececec |
 | CMYK | 61, 51, 50, 46 | 71, 27, 0, 0 | 0, 0, 0, 10 |
 
-
-RGB
-Web #515050
-CMYK
-
+---
 
 ### Product Icons [RGB]
       
