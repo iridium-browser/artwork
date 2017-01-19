@@ -1,10 +1,10 @@
 # Artwork for Iridium Browser
-all Artwork is available as **PNG**, **EPS** or **AI** for Illustartor CS6+     
+all Artwork is available as **PNG**, **EPS** or **AI** for Illustrator CS6+     
 *click on image for large preview*
 
 ### Product Icons [RGB]
       
-#### Custom Icon | min width 61px +
+#### Custom Icon | *min width 61px +*
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom.png" height="100" width="120">     
 
 -
