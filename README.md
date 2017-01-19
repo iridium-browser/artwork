@@ -11,17 +11,11 @@ design size: **61px+**
 <br/>
 
 <table width="100%">
-    <tr width="20%">
-        <td>Foo</td>
-    </tr>
-    <tr width="50%">
-        <td>Icon</td>
-    </tr>
-    <tr width="15%">
-        <td>design size</td>
-    </tr>
-    <tr width="15%">
-        <td>formats</td>
+    <tr>
+        <td width="20%">Foo</td>
+        <td width="50%">Icon</td>
+        <td width="15%">design size</td>
+        <td width="15%">formats</td>
     </tr>
 </table>
 
