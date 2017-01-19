@@ -10,7 +10,7 @@ min size: **61px+** (width)
 -
       
 #### Custom Icon small #
-<img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom_small.png" height="60" width="72">    
+<img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom_small.png" height="60" width="72"><br/>    
 min size: **16-60px** (width)    
 
 -
