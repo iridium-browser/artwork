@@ -3,16 +3,16 @@ Artwork for Iridium Browser
 
 ## Product Icons #
       
-#### Icon small #
+#### Icon #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icon_RGB/iridium-icon_custom_small.png" height="60" width="72">     
-small Icon for all builds
-design size: **16-60px**    
+Icon for all builds      
+design size: **61px ~**    
       
----
+-
 
 #### Icon small #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icon_RGB/iridium-icon_custom_small.png" height="60" width="72">     
-small Icon for all builds
+small Icon for all builds      
 design size: **16-60px**    
       
 #### App Icon #
