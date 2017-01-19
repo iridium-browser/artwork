@@ -59,7 +59,7 @@ Backup of all artwork for the website and social media
 ---
 
 ## Color Codes
-|    | foreground | | background |
+|    | foreground || background |
 |----|----|----|----|
 |    | **dark-grey** | **blue** | **light-grey** |
 | RGB | 81, 80, 80 | 68, 154, 213 | 230, 231, 232 |
