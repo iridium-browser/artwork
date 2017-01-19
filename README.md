@@ -25,8 +25,8 @@ min size: **48-60px**
 ## Product Logos [RGB] #
       
 #### Logo 1 #
-<img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_1.png" height="192" width="301" align="left">     
-min size: **120px+** (width)    
+<img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_1.png" height="192" width="301" align="left"><br/>     
+min size: **120px+** (width)<br/>    
 
 -
       
