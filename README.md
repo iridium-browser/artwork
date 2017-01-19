@@ -30,25 +30,25 @@ min size: **120px+** (width)
 
 -
       
-#### Product Logo 2 #
+#### Logo 2 #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_2.png" height="200" width="200">     
 min size: **120px+** (width)    
 
 -
       
-#### Product Logo 3 #
+#### Logo 3 #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_3.png" height="64" width="200">     
 min size: **160px+** (width)    
 
 -
       
-#### Product Logo 4 #
+#### Logo 4 #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_4.png" height="83" width="299">     
 min size: **200px+** (width)    
 
 -
       
-#### Product Logo 5 #
+#### Logo 5 #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_5.png" height="60" width="360">     
 min size: **300px+** (width)    
 <br/>
