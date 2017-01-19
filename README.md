@@ -4,7 +4,7 @@ Artwork for Iridium Browser
 ## Product Icons #
       
 #### Icon #
-<img src="https://github.com/iridium-browser/artwork/blob/master/product-icon_RGB/iridium-icon_custom.png" height="100" width="120">     
+<img src="https://github.com/iridium-browser/artwork/blob/master/product-icon_RGB/iridium-icon_custom.png" height="100" width="120" align="left" style="margin-right:20px;">     
 Icon for all builds      
 design size: **61px ~**    
       
