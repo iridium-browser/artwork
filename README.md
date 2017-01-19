@@ -62,4 +62,4 @@ min size: **300px+** (width)
 ---
       
 ## Web Art [RGB] #
-Backup of all artwqork for the website and social media
+Backup of all artwork for the website and social media
