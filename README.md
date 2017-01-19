@@ -11,13 +11,13 @@ min size: **61px+** (width)
       
 #### Custom Icon small #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom_small.png" height="60" width="72">    
-min size: **16-60px** (width)    
+design size: **16-60px** (width)    
 
 -
 
 #### App Icon #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-app_icon.png" height="60" width="60">      
-min size: **48-60px**     
+design size: **48-60px**     
 <br/>
       
 ---
