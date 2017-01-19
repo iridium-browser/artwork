@@ -1,23 +1,20 @@
 # Artwork for Iridium Browser
 all Artwork is available as PNG, EPS or AI for Illustartor CS6+
 
-## Product Icons [RGB]
+### Product Icons [RGB]
       
-#### Custom Icon
+**Custom Icon** | min size **61px+** (width)      
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom.png" height="100" width="120">     
-min size **61px+** (width)      
 
 -
       
-#### Custom Icon small
+**Custom Icon small** | design size **16-60px** (width)    
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom_small.png" height="60" width="72">    
-design size **16-60px** (width)    
 
 -
 
-#### App Icon #
+**App Icon** | design size **48-60px**     
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-app_icon.png" height="60" width="60">      
-design size **48-60px**     
 <br/>
       
 ---
