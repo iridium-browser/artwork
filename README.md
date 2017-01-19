@@ -36,8 +36,7 @@ Original Logo | design size: **61px+**
 ---
       
 ## Sticker Templates [CMYK] #
-[an example](http://example.com/ "Title")
-view PDF for details
+[view PDF for previews and details](https://github.com/iridium-browser/artwork/blob/master/print-sticker_CMYK/_Sticker_Templates_v1.pdf "view PDF for previews and details")       
 <br/>
       
 ---
