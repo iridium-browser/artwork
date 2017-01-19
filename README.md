@@ -1,6 +1,5 @@
 # Artwork for Iridium Browser
-all Artwork is available as **PNG**, **EPS** or **AI** for Illustrator CS6+     
-*click on image for large preview*
+all Artwork is available as **PNG**, **EPS** or **AI** for Illustrator CS6+ | *click on image for large preview*      
 
 ### Product Icons [RGB]
       
