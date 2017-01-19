@@ -58,7 +58,7 @@ Backup of all artwork for the website and social media
 
 ---
 
-### Color Codes
+## Color Codes
 |    | foreground | | background |
 |----|----|----|----|
 |    | **dark-grey** | **blue** | **light-grey** |
