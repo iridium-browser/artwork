@@ -5,7 +5,10 @@ all Artwork is available as PNG, EPS or AI for Illustartor CS6+
       
 #### Custom Icon #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom.png" height="100" width="120">     
-min size: **61px+** (width)    
+min size: **61px+** (width) /// .eps | .png | .ai    
+[.eps](https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom.eps "preview") | 
+[.png](https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom.png "preview") | 
+[.ai](https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/Illustrator_CS6/iridium-icon_custom.ai "preview")      
 
 -
       
