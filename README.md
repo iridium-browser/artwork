@@ -1,6 +1,18 @@
 # Artwork for Iridium Browser
 all Artwork is available as PNG, EPS or AI for Illustartor CS6+
 
+### Color Codes
+|    |    |    |
+|----|----|----|
+|    |    |    |
+
+
+
+RGB
+Web #515050
+CMYK
+
+
 ### Product Icons [RGB]
       
 #### Custom Icon | min width 61px+
