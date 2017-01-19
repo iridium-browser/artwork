@@ -10,6 +10,25 @@ design size: **61px+**
 <br/>
 <br/>
 
+<table width="100%">
+    <tr width="20%">
+        <td>Foo</td>
+    </tr>
+    <tr width="50%">
+        <td>Icon</td>
+    </tr>
+    <tr width="15%">
+        <td>design size</td>
+    </tr>
+    <tr width="15%">
+        <td>formats</td>
+    </tr>
+</table>
+
+
+
+
+
 -
       
 #### Icon small #
