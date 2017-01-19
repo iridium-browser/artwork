@@ -9,7 +9,6 @@ Icon for all builds
 design size: **61px+**    
 <br/>
 <br/>
-<br/>
 
 -
       
