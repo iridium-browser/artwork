@@ -61,8 +61,7 @@ Backup of all artwork for the website and social media
 ### Color Codes
 |    | foreground | | background |
 |----|----|----|----|
-|    | dark-grey | blue | light-grey |
-|----|----|----|----|
+|    | **dark-grey | blue | light-grey** |
 | RGB | 81, 80, 80 | 68, 154, 213 | 230, 231, 232 |
 | WEB | #515050 | #449ad5 | #ececec |
 | CMYK | 61, 51, 50, 46 | 71, 27, 0, 0 | 0, 0, 0, 10 |
