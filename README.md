@@ -24,6 +24,7 @@ design size: **16-60px**
 Icon for web based App or when saving the Iridium website to homescreen or favourites on mobile devices     
 design size: **48-60px**     
       
+      
 ---
       
 ## Product Logos #
