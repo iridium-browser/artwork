@@ -5,7 +5,7 @@ all Artwork is available as PNG, EPS or AI for Illustartor CS6+
       
 #### Custom Icon #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom.png" height="100" width="120">     
-min size: **61px+** (width) /// .eps | .png | .ai    
+min size **61px+** (width) /// preview 
 [.eps](https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom.eps "preview") | 
 [.png](https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom.png "preview") | 
 [.ai](https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/Illustrator_CS6/iridium-icon_custom.ai "preview")      
@@ -14,13 +14,13 @@ min size: **61px+** (width) /// .eps | .png | .ai
       
 #### Custom Icon small #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-icon_custom_small.png" height="60" width="72">    
-design size: **16-60px** (width)    
+design size **16-60px** (width)    
 
 -
 
 #### App Icon #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-icons_RGB/iridium-app_icon.png" height="60" width="60">      
-design size: **48-60px**     
+design size **48-60px**     
 <br/>
       
 ---
@@ -29,31 +29,31 @@ design size: **48-60px**
       
 #### Logo 1 #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_1.png" height="192" width="301">     
-min size: **120px+** (width)    
+min size **120px+** (width)    
 
 -
       
 #### Logo 2 #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_2.png" height="200" width="200">     
-min size: **120px+** (width)    
+min size **120px+** (width)    
 
 -
       
 #### Logo 3 #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_3.png" height="64" width="200">     
-min size: **160px+** (width)    
+min size **160px+** (width)    
 
 -
       
 #### Logo 4 #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_4.png" height="83" width="299">     
-min size: **200px+** (width)    
+min size **200px+** (width)    
 
 -
       
 #### Logo 5 #
 <img src="https://github.com/iridium-browser/artwork/blob/master/product-logos_RGB/iridium-logo_5.png" height="60" width="360">     
-min size: **300px+** (width)    
+min size **300px+** (width)    
 <br/>
       
 ---
