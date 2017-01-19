@@ -36,6 +36,8 @@ Original Logo | design size: **61px+**
 ---
       
 ## Sticker Templates [CMYK] #
+[an example](http://example.com/ "Title")
+view PDF for details
 <br/>
       
 ---
