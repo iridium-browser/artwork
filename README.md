@@ -47,12 +47,6 @@ all Artwork is available as **PNG**, **EPS** or **AI** for Illustrator CS6+ | *c
       
 ---
       
-## Sticker Templates [CMYK]
-[view PDF for previews and details](https://github.com/iridium-browser/artwork/blob/master/print-sticker_CMYK/_Sticker_Templates_v1.pdf "view PDF for previews and details")       
-<br/>
-      
----
-      
 ## Web Art [RGB]
 Backup of all artwork for the website and social media
 
